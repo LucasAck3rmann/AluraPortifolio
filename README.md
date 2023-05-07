@@ -1,2 +1,2 @@
 # Portif-io
-Portifólio (treino) para Design Joana
+Um portifólio para a design Joana Santos.
